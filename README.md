@@ -1,19 +1,7 @@
-# act3_1062
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- ![image](https://github.com/user-attachments/assets/aea52bd6-b3ca-4b54-b0c7-f0c5629589cd)
+- ![image](https://github.com/user-attachments/assets/b91415d5-f3b1-4f55-a4ec-9a38afc00a70)
+- ![image](https://github.com/user-attachments/assets/a39bee99-0ebc-43ec-a42e-9e5e73885f8e)
+- ![image](https://github.com/user-attachments/assets/d0f011e0-63af-452a-91f3-109c1d84b0d9)
+- ![image](https://github.com/user-attachments/assets/286bb471-5073-47ad-9915-a9f7014faaf4)
+- ![image](https://github.com/user-attachments/assets/2d02df0a-1be2-422c-9325-88b3e97a35a5)
+- ![image](https://github.com/user-attachments/assets/675ea2ef-ba92-489e-ad7d-b1e7067b9b61)
